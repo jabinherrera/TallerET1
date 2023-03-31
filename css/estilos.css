@@ -73,6 +73,11 @@ li a {
     width: 100%;
 }
 
+.boton-enviar {
+    border-radius: 10px;
+    background: green;
+}
+
 .contenedor-tabla {
     margin: 100px auto;
     width: 50%;
