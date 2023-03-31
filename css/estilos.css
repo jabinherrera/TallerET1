@@ -90,6 +90,8 @@ table, th, td {
 
 .tabla-titulo {
     text-align: center;
+    background: cornflowerblue;
+    border-radius: 10px;
 }
 
 .editar {
